@@ -80,3 +80,19 @@ ul li a{
     background: url(' https://cdn.pixabay.com/photo/2018/02/07/12/01/restaurant-3136935_960_720.jpg');
     background-size: cover;
 }
+.text{
+    background: rgb(0,0,0,0.5);
+    width: 50%;
+    padding: 10px;
+    border-radius: 5px;
+    color: #fff;
+}
+.btn{
+    width: 150px;
+    padding: 10px;
+    cursor: pointer;
+    background: rgb(0,191, 255);
+    color:#fff;
+    border: none;
+    margin-bottom: 20px;
+}
